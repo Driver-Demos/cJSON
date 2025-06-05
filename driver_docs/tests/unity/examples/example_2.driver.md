@@ -1,5 +1,5 @@
 ## Folders
-- **[src](example_2/src.driver.md)**: The `src` folder in the `cJSON` codebase contains C source and header files that define and declare functions for searching numbers in arrays, returning local variables, and a placeholder function for future testing.
+- **[src](example_2/src.driver.md)**: The `src` folder in the `cJSON` codebase contains source and header files for production code, including functions for searching arrays and handling local variables, as well as a placeholder function for future testing.
 - **[test](example_2/test.driver.md)**: The `test` folder in the `cJSON` codebase contains unit tests and test runners for the `ProductionCode` and `ProductionCode2` modules, utilizing the Unity test framework.
 
 ## Files

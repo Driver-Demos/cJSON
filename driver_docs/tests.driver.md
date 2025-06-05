@@ -1,7 +1,7 @@
 ## Folders
 - **[inputs](tests/inputs.driver.md)**: The `inputs` folder in the `cJSON` codebase contains various test files and their expected outputs, each representing different JSON structures and configurations for testing purposes, including glossary entries, menu structures, widget configurations, web application settings, geographical data, image metadata, and more.
-- **[json-patch-tests](tests/json-patch-tests.driver.md)**: The `json-patch-tests` folder in the `cJSON` codebase contains various JSON Patch test cases and related configuration files, including `.npmignore`, `cjson-utils-tests.json`, `package.json`, `README.md`, `spec_tests.json`, and `tests.json`, to support testing and implementation of JSON Patch operations as per RFC 6902.
-- **[unity](tests/unity.driver.md)**: The `unity` folder in the `cJSON` codebase is dedicated to the Unity test framework, containing scripts, documentation, examples, and resources for automating, configuring, and executing unit tests, along with a README file detailing the test API and assertion macros.
+- **[json-patch-tests](tests/json-patch-tests.driver.md)**: The `json-patch-tests` folder in the `cJSON` codebase contains various JSON Patch test cases and related configuration files, including `.npmignore`, `cjson-utils-tests.json`, `package.json`, `README.md`, `spec_tests.json`, and `tests.json`, to support testing and implementation of IETF JSON Patch (RFC6902) operations.
+- **[unity](tests/unity.driver.md)**: The `unity` folder in the `cJSON` codebase is dedicated to the Unity test framework, containing automation scripts, documentation, examples, additional resources, source code, and test setups to facilitate comprehensive unit testing.
 
 ## Files
 - **[cjson_add.c](tests/cjson_add.c.driver.md)**: The `cjson_add.c` file contains unit tests for the cJSON library, specifically testing the addition of various JSON data types to objects and handling of allocation failures.
