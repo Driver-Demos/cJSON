@@ -1,6 +1,6 @@
 ## Folders
-- **[src](fixture/src.driver.md)**: The `src` folder in the `cJSON` codebase contains source files related to the Unity Test Framework, including implementations and declarations for test management, memory handling, and platform-specific customizations.
-- **[test](fixture/test.driver.md)**: The `test` folder in the `cJSON` codebase contains files and a subfolder dedicated to setting up, running, and managing unit tests using the Unity Test Framework, including test runners, output management, and various test configurations.
+- **[src](fixture/src.driver.md)**: The `src` folder in the `cJSON` codebase contains files related to the Unity Test Framework, including implementations and declarations for managing and running test cases, handling memory allocation, and providing platform-specific memory management support.
+- **[test](fixture/test.driver.md)**: The `test` folder in the `cJSON` codebase contains files and a subfolder dedicated to setting up, running, and managing unit tests using the Unity test framework, including test runners, output management, and various test cases.
 
 ## Files
 - **[rakefile.rb](fixture/rakefile.rb.driver.md)**: The `rakefile.rb` file in the `cJSON` codebase sets up tasks for building and testing the Unity test framework for C, including configuration management and directory preparation.

@@ -1,6 +1,6 @@
 ## Folders
 - **[helper](example_3/helper.driver.md)**: The `helper` folder in the `cJSON` codebase contains files that provide functions and macros for asserting the equality of `EXAMPLE_STRUCT_T` structures using Unity's testing framework.
-- **[src](example_3/src.driver.md)**: The `src` folder in the `cJSON` codebase contains C source and header files for production code, including functions for searching arrays and handling local variables, as well as a placeholder function that lacks testing.
+- **[src](example_3/src.driver.md)**: The `src` folder in the `cJSON` codebase contains source and header files for production code, including functions for searching arrays, returning local variables, and a placeholder function that lacks tests.
 - **[test](example_3/test.driver.md)**: The `test` folder in the `cJSON` codebase contains unit test files, `TestProductionCode.c` and `TestProductionCode2.c`, which utilize the Unity test framework to verify and plan future tests for functions in the `ProductionCode` and `ProductionCode2` modules.
 
 ## Files
