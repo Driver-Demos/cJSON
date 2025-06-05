@@ -1,0 +1,8 @@
+
+## Files
+- **[.npmignore](json-patch-tests/.npmignore.driver.md)**: The `.npmignore` file in the `cJSON` codebase specifies files like `.editorconfig` and `.gitignore` to be ignored when publishing the `json-patch-tests` directory to npm.
+- **[cjson-utils-tests.json](json-patch-tests/cjson-utils-tests.json.driver.md)**: The `cjson-utils-tests.json` file contains a series of test cases for JSON Patch operations, including add, remove, replace, move, and test, with expected outcomes or errors for each operation.
+- **[package.json](json-patch-tests/package.json.driver.md)**: The `package.json` file defines metadata and configuration for the `json-patch-test-suite`, a JSON Patch RFC 6902 test suite, including its version, description, repository, and license information.
+- **[README.md](json-patch-tests/README.md.driver.md)**: The `README.md` file in the `cJSON/tests/json-patch-tests` directory provides an overview of the JSON Patch test cases, including their format, writing guidelines, and licensing information, for implementations of IETF JSON Patch (RFC6902).
+- **[spec_tests.json](json-patch-tests/spec_tests.json.driver.md)**: The `spec_tests.json` file in the `cJSON` codebase contains a series of JSON Patch test cases, including operations like add, remove, replace, move, and test, along with expected outcomes or errors for each scenario.
+- **[tests.json](json-patch-tests/tests.json.driver.md)**: The `tests.json` file in the `cJSON` codebase contains a comprehensive set of JSON Patch test cases, including various operations like add, remove, replace, move, copy, and test, along with expected outcomes and error scenarios.

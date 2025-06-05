@@ -1,0 +1,2 @@
+# Purpose
+This file is a CMake script used to determine the compatibility of a package version with a requested version. It sets the `PACKAGE_VERSION` using a placeholder for the project's version and checks if it is less than, equal to, or greater than the `PACKAGE_FIND_VERSION`, setting flags `PACKAGE_VERSION_COMPATIBLE` and `PACKAGE_VERSION_EXACT` accordingly to indicate compatibility and exact match status.
