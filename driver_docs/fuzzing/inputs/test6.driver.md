@@ -1,0 +1,2 @@
+# Purpose
+This HTML document is designed to display an "Application Error" page. It sets the viewport for responsive design, applies CSS to ensure the HTML, body, and iframe elements occupy the full height of the page without margins or padding, and embeds an iframe that loads an error page from a specified URL. The document is likely used to inform users of an error in a web application hosted on Heroku.
